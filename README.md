@@ -105,6 +105,38 @@ The analysis provides a foundation for improving product strategy, customer targ
 
 - `Ecommerce_Sales_Profitability_Analysis.ipynb` — Complete Python analysis
 - `ecommerce_sales_analysis_dataset.csv` — Dataset used for the analysis
+  ## 📊 Data Visualizations
+
+### Sales Analysis
+
+#### Sales by Category
+![Sales by Category](sales%20by%20category.png)
+
+#### Sales by Customer Segment
+![Sales by Customer Segment](sales%20by%20customer%20segment.png)
+
+#### Sales by Payment Method
+![Sales by Payment Method](sales%20by%20payment%20method.png)
+
+#### Total Sales by Order Status
+![Total Sales by Order Status](total%20sales%20by%20order.png)
+
+### Profitability Analysis
+
+#### Profit by Category
+![Profit by Category](profit%20by%20category.png)
+
+#### Profit by Customer Segment
+![Profit by Customer Segment](profit%20by%20customer%20segment.png)
+
+#### Profit by Payment Method
+![Profit by Payment Method](profit%20by%20payment%20method.png)
+
+#### Profit by Region
+![Profit by Region](profit%20by%20region.png)
+
+#### Total Profit by Order Status
+![Total Profit by Order Status](total%20profit%20by%20order.png)
 
 ## Author
 
